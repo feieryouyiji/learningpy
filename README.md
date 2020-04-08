@@ -1,1 +1,4 @@
-# 此项目的目的是记录练习python
+#### 目的
+> 坚持有空学习python
+#### 参考
+- https://www.bilibili.com/video/BV1qW411S7j8                                  
