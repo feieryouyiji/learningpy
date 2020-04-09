@@ -3,6 +3,7 @@
 # 参考
 - https://www.bilibili.com/video/BV1qW411S7j8       
 - https://docs.pythontab.com/python/python3.4/controlflow.html
+- https://py-googletrans.readthedocs.io/en/latest/
 
 
 #### 2020-04-08
