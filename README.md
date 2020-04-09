@@ -10,3 +10,4 @@
 > 配置flake yapf gitigore等文件
 #### 2020-04-09
 > python list turple object学习
+- postgres 基础操作
