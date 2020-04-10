@@ -11,3 +11,6 @@
 #### 2020-04-09
 > python list turple object学习
 - postgres 基础操作
+#### 2020-04-09
+- 解决vscode python yapf格式化不起作用 yapf 2020-04-10/test_log.py -i
+- 学习python捕获异常
