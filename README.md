@@ -16,3 +16,9 @@
 - 学习python捕获异常
 #### 2020-04-13
 - 学习python对象
+#### 2020-04-18
+- 学习python对象的继承
+- 学习python对象__slot__
+- 学习python对象Property @property  @xxx.setter
+- 学习python对象mixin
+- 学习python对象定制类 __call__ __str__
