@@ -22,3 +22,7 @@
 - 学习python对象Property @property  @xxx.setter
 - 学习python对象mixin
 - 学习python对象定制类 __call__ __str__
+#### 2020-04-19
+- 学习高阶函数 map reduce filter 接受一个 f 和一个iterble
+- 学习装饰器
+- 学习测试 unittest unittest.TestCase
