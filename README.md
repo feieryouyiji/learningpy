@@ -26,3 +26,6 @@
 - 学习高阶函数 map reduce filter 接受一个 f 和一个iterble
 - 学习装饰器
 - 学习测试 unittest unittest.TestCase
+#### 2020-04-24
+- 学习thread
+- 学习collections 中 nemedtuple 以及Counter
